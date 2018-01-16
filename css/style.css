@@ -1,0 +1,55 @@
+.centerpiece{
+  text-align: center;
+  background-color: white;
+  margin: auto;
+
+}
+
+body{
+  background-color: silver !important;
+}
+
+
+.main-title-kat{
+  font-size: 44px;
+}
+
+.sub-title{
+  font-size: 30px;
+  font-style: italic;
+}
+
+.section-title{
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.basic-text{
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: "Liberation Mono";
+}
+
+
+.empty-bar{
+  height: 50px;
+}
+
+#photo1{
+  border-radius: 15%;
+  }
+
+#photo2{
+  margin-top: 20px;
+  border-radius: 10% 10% 5% 0%;
+}
+
+#photo4{
+  border-radius: 0% 0% 10% 10%;
+}
+
+#photo3:hover{
+  cursor: pointer;
+
+}
+
